@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm [Ujjawal kumar]!
 
 I'm a passionate Computer Science student with a strong foundation in web development and data structures & algorithms. I love coding and building efficient, scalable solutions. Here's a little more about me:
 
