@@ -32,20 +32,14 @@ I'm a passionate Computer Science student with a strong foundation in web develo
 - **Description**: Brief description of what the project is about, the technologies used, and your role.
 - **Tech Stack**: ![Tech 1](https://img.shields.io/badge/Tech1-Label-Color?style=for-the-badge) ![Tech 2](https://img.shields.io/badge/Tech2-Label-Color?style=for-the-badge)
 
-### [Project 2 Title](Link to Project)
-- **Description**: Brief description of what the project is about, the technologies used, and your role.
-- **Tech Stack**: ![Tech 1](https://img.shields.io/badge/Tech1-Label-Color?style=for-the-badge) ![Tech 2](https://img.shields.io/badge/Tech2-Label-Color?style=for-the-badge)
-
-### [Project 3 Title](Link to Project)
-- **Description**: Brief description of what the project is about, the technologies used, and your role.
-- **Tech Stack**: ![Tech 1](https://img.shields.io/badge/Tech1-Label-Color?style=for-the-badge) ![Tech 2](https://img.shields.io/badge/Tech2-Label-Color?style=for-the-badge)
 
 ---
 
 ## 📫 How to Reach Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjawalkumar787898@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjawalk1/)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=About.me&logoColor=white)](http://your-portfolio.com)
 
 ---
