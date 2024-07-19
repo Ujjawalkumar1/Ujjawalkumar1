@@ -28,8 +28,14 @@ I'm a passionate Computer Science student with a strong foundation in web develo
 
 ## 💼 Projects
 
-### [Project 1 Title](Link to Project)
-- **Description**: Brief description of what the project is about, the technologies used, and your role.
+### [Project 1 Title](https://github.com/Ujjawalkumar1/Student_Registration.git)
+- **Description**:This is a student registration website built using HTML, CSS, PHP, and MySQL ..
+- **Tech Stack**: ![Tech 1](https://img.shields.io/badge/Tech1-Label-Color?style=for-the-badge) ![Tech 2](https://img.shields.io/badge/Tech2-Label-Color?style=for-the-badge)
+
+
+
+### [Project 2 Title](https://github.com/Ujjawalkumar1/Food-Order-System.git)
+- **Description**:implement a food order system that processes orders in a First Come First Served (FCFS) manner.
 - **Tech Stack**: ![Tech 1](https://img.shields.io/badge/Tech1-Label-Color?style=for-the-badge) ![Tech 2](https://img.shields.io/badge/Tech2-Label-Color?style=for-the-badge)
 
 
