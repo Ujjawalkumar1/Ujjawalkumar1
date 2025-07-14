@@ -3,9 +3,8 @@
 I'm a **B.Tech Computer Science student** at **Cochin University of Science and Technology (CUSAT)**, passionate about **Web Development**, **Data Structures & Algorithms**, and exploring cutting-edge technologies like **LLMs & RAG** systems.
 
 ---
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ujjawalkumar1/Ujjawalkumar1/main/coding-boy.png" width="300" alt="Coding Boy"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Animated Coding GIF"/>
 </p>
 
 ---
